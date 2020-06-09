@@ -1,0 +1,45 @@
+{
+  "streams": [
+    {
+      "title": "I created this ",
+      "description": "This was made just now",
+      "userId": "107046013434098396092",
+      "id": 1
+    },
+    {
+      "title": "Patch",
+      "description": "Changed using patch",
+      "userId": "107046013434098396092",
+      "id": 2
+    },
+    {
+      "title": "Third stream",
+      "description": "Testing out stuff",
+      "userId": "107046013434098396092",
+      "id": 3
+    },
+    {
+      "title": "byugyug",
+      "description": "7878t",
+      "userId": "107046013434098396092",
+      "id": 5
+    },
+    {
+      "title": "Funky design",
+      "description": "ppopopo",
+      "id": 6
+    },
+    {
+      "title": "hhhhhh",
+      "description": "kjo98y98y89y89",
+      "userId": "107046013434098396092",
+      "id": 7
+    },
+    {
+      "title": "Work",
+      "description": "Was lagging before",
+      "userId": "107046013434098396092",
+      "id": 8
+    }
+  ]
+}
